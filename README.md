@@ -66,10 +66,6 @@ To get started with the app locally, follow these steps:
 
 ![Screenshot 2024-09-08 183109](https://github.com/user-attachments/assets/96f212ea-9213-4d99-9a32-954ef5579478)
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as you see fit!
-
 ## Acknowledgments
 
 - This project uses the [Breast Cancer Data Set](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset) from kaggle.com.
