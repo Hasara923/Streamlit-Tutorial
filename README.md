@@ -60,12 +60,10 @@ To get started with the app locally, follow these steps:
 ## How to Use the App
 
 1. **Home Page:** Start here to explore the dataset with various visualizations and a correlation heatmap.
-2. **Data Exploration:** Use interactive graphs to understand the distribution and relationships between different features.
-3. **Prediction Page:** Enter values for various features, and the app will predict whether the breast cancer is malignant or benign.
+2. **Prediction Page:** Enter values for various features, and the app will predict whether the breast cancer is malignant or benign.
 
 ## Screenshots
 
-![Home page](image.png)
 
 ## License
 
