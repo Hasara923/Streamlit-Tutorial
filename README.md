@@ -64,6 +64,7 @@ To get started with the app locally, follow these steps:
 
 ## Screenshots
 
+![Screenshot 2024-09-08 183109](https://github.com/user-attachments/assets/96f212ea-9213-4d99-9a32-954ef5579478)
 
 ## License
 
